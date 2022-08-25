@@ -27,5 +27,5 @@ For the <i>**Assignment - Establishing a collaborative python environment**</i>,
 -	Optional: Download and use GitHubDesktop for managing your collaborative coding environment
 o	https://desktop.github.com/ 
  
-You will be evaluated by completing these two tasks through (a) uploading screenshots of successful python installation on your laptop on Canvas (10pts) and (2) successfully contributing your sample python code to the QuantPhysCollabPythonHW repository (10pts) before the deadline.
+You will be evaluated by completing these two tasks through (a) uploading screenshots of successful python installation on your laptop on Canvas (10pts) and (2) successfully contributing your sample python code to the QuantPhysCollabPythonHWFa22 repository (10pts) before the deadline.
 
